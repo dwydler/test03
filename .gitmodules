@@ -1,0 +1,3 @@
+[submodule "test2/submodule"]
+	path = test2/submodule
+	url = https://github.com/dwydler/test03-sm
